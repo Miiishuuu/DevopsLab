@@ -1,2 +1,7 @@
 Hello Git
+<<<<<<< HEAD
 yayyyy
+=======
+Branch update
+>>>>>>> feature2
+hihi
